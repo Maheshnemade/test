@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mahesh Ashok Nemade
+Skills: Python(Basic), Java, HTML, CSS, SQL, GIT, GitHub, Basic Web Development
+Email: maheshnemade64@gmail.com
+{{/user}}
